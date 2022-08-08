@@ -1,2 +1,3 @@
-# nodejs
- This is a folder about learning node js concepts
+# Learning Node JS
+
+ This is a project folder about learning node js concepts.
