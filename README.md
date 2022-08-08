@@ -1,5 +1,5 @@
-# Learning Node JS
+# Learning NodeJS
 
- This is a project folder about learning node js concepts.
+ This is a project folder about learning NodeJS concepts.
  
  Created by Rui Vergani Neto, 2022
