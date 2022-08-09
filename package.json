@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is a project folder about learning NodeJS concepts.",
+  "main": "console 2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruivergani/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruivergani/nodejs/issues"
+  },
+  "homepage": "https://github.com/ruivergani/nodejs#readme",
+  "dependencies": {
+    "cfonts": "^3.1.1"
+  }
+}
